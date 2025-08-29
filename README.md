@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Temitayo
 - 👀 I’m a Data Analyst
-- 🌱 I’m currently learning ... Pythoon for Data Analytics
+- 🌱 I’m currently learning ... Python for Data Analytics
 - 💞️ I’m open to collaborations... 
 - 📫 How to reach me ... Telegram @elpatron_24056
 
