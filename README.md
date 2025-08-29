@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Temmykaz
-- 👀 I’m interested in ...php
-- 🌱 I’m currently learning ... Php
-- 💞️ I’m looking to collaborate on ... Website design 
-- 📫 How to reach me ... Telegram @Hannrud
+- 👋 Hi, I’m Temitayo
+- 👀 I’m a Data Analyst
+- 🌱 I’m currently learning ... Pythoon for Data Analytics
+- 💞️ I’m open to collaborations... 
+- 📫 How to reach me ... Telegram @elpatron_24056
 
 <!---
 Temmykaz/Temmykaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
